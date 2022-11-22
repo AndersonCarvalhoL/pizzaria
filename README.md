@@ -8,7 +8,7 @@
 
 Projeto feito baseado em referência do curso B7Web.
 
-- [Clique aqui para acessar!](https://andersoncarvalhol.github.io/Project-Awax/)
+- [Clique aqui para acessar!](https://andersoncarvalhol.github.io/pizzaria/)
 
 >## Tecnologias
 
